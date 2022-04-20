@@ -10,3 +10,5 @@ a place for all the code written during the xn rising project
 **testXNParser.ipynb**: code for testing XNParser against PubMed dataset
 
 **RegexAllFieldsParsers&Tests.ipynb**: code for regular expressions and tests on mla, apa, and mla styles all fields
+  
+**xnparser_source**: code for the final parser
