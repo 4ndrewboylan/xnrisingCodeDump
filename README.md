@@ -8,3 +8,5 @@ a place for all the code written during the xn rising project
 **testCERMINERefined1.ipynb**: code for testing CERMINE against PubMed dataset
 
 **testXNParser.ipynb**: code for testing XNParser against PubMed dataset
+
+**RegexAllFieldsParsers&Tests.ipynb**: code for regular expressions and tests on mla, apa, and mla styles all fields
